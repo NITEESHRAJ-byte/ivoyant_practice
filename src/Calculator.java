@@ -1,4 +1,4 @@
-//Created this program to demonstrate Exception handlling in Java
+//Created this program to demonstrate Exception handlling in Java.
 
 import java.util.Scanner;
 

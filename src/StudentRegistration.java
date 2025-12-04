@@ -1,4 +1,4 @@
-// Demonstrates: Constructors, Types, Encapsulation
+// Demonstrates: Constructors, Types, Encapsulation.
 class Student {
     private final int studentId;
     private String name;
